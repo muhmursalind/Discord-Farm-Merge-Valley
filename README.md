@@ -9,9 +9,6 @@
 |`this._data.harvestableType`|-|
 
 ## Enums
-
-<details> 
-  <summary>Click to expand the information</summary>
   
 ### Upgrade Card
 
@@ -386,7 +383,5 @@
 |`"decorative_halloween_treeface"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_skullaltar"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_well"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-
-</details>
 
 </details>
