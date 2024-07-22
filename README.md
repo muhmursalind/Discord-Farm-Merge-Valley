@@ -28,11 +28,10 @@
 
 ### Reward
 
-#### Items Reward
-
 <details> 
   <summary>Click to expand the information</summary>
   
+#### Items Reward
 |Enum|Status|Function|
 |--|--|--|
 |`"coins"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
@@ -40,8 +39,6 @@
 |`"crates"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 |`"energy"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 |`"tickets"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
-
-</details>
   
 #### Ingredients Reward
 |Enum|Status|Function|
@@ -63,8 +60,13 @@
 |`"avocado"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 |`"truffle"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 
+</details>
+
 ### Reward Spawn
 
+<details> 
+  <summary>Click to expand the information</summary>
+  
 #### Coin
 |Enum|Status|Function|
 |--|--|--|
@@ -88,6 +90,7 @@
 |`"gem_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
 #### Energy
+  
 |Enum|Status|Function|
 |--|--|--|
 |`"energy_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
@@ -95,8 +98,13 @@
 |`"energy_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"energy_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
+</details>
+
 ### Plant Spawn
 
+<details> 
+  <summary>Click to expand the information</summary>
+  
 #### Wheat
 |Enum|Status|Function|
 |--|--|--|
@@ -169,8 +177,13 @@
 |`"avocado_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"avocado_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
+</details>
+
 ### Animal Spawn
 
+<details> 
+  <summary>Click to expand the information</summary>
+  
 #### Chicken
 |Enum|Status|Function|
 |--|--|--|
@@ -227,8 +240,13 @@
 |`"trufflepig_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"trufflepig_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
+</details>
+
 ### Addon Spawn
 
+<details> 
+  <summary>Click to expand the information</summary>
+  
 #### Stone Spawn
 |Enum|Status|Function|
 |--|--|--|
@@ -368,5 +386,7 @@
 |`"decorative_halloween_treeface"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_skullaltar"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_well"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+</details>
 
 </details>
