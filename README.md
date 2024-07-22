@@ -252,7 +252,7 @@
 |`"tool_9"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"tool_10"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 
-### Greenhouse Spawn
+#### Greenhouse Spawn
 |Enum|Status|Function|
 |--|--|--|
 |`"greenhouse_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
@@ -267,3 +267,89 @@
 |`"greenhouse_10"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"greenhouse_11"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"greenhouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Decorative Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"decorative_toilet"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_windmill"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_chickencoop"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_doghouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_farmhouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_feedingtrough"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_birdshouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_barn"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_flowerpots"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_fountain"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_haywagon"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_lamppost"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_milktank"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_picknicktable"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_shed"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_silo"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_stoneflowerpot"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_watertower"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_well"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_9"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"flower_10"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Decorative Christmas Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"decorative_christmas_candygate"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_elfteddy"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_elfmail"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_fireplace"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gift01"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_elftrain"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gift02"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gingerbell"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gingerbreadhouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gift03"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_santagift"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_nutcracker"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gingerbreadsnow"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_santamail"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_sleigh"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowdinner"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowcaroling"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowfight"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowgifting"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_gingerbreadhousesmall"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowglobe"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowjello"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowlantern"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowtelescope"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_snowreindeer"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_christmas_treebig"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Decorative Halloween Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"decorative_halloween_blackcat"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_cauldron"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_grave01"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_grave02"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_grandfatherclock"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_ghosts"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_graveyard"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_hauntedhouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_pumpkinpatchbig"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_pumpkins01"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_pumpkins02"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_pumpkins03"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_pumpkins04"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_skeletonbench"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_skeletoncarousel"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_skeletonpicnic"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_treeface"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_skullaltar"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"decorative_halloween_well"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
