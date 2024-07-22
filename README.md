@@ -14,18 +14,25 @@
   <summary>Click to expand the information</summary>
   
 ### Upgrade Card
+
 <details> 
   <summary>Click to expand the information</summary>
+  
 |Enum|Status|Function|
 |--|--|--|
 |`"upgrade_card_1"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 |`"upgrade_card_2"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 |`"upgrade_card_3"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
-</details>details> 
+
+<details>
 
 ### Reward
 
 #### Items Reward
+
+<details> 
+  <summary>Click to expand the information</summary>
+  
 |Enum|Status|Function|
 |--|--|--|
 |`"coins"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
@@ -34,6 +41,8 @@
 |`"energy"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 |`"tickets"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 
+<details>
+  
 #### Ingredients Reward
 |Enum|Status|Function|
 |--|--|--|
