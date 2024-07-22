@@ -6,7 +6,7 @@
 |`this._data.max`|-|
 |`this._data.reward`|[Tutorial](https://youtu.be/P-pKHxkn9ZM?si=53LLLY5Wjlz-uYKj)|
 |`this._data.target`|[Tutorial](https://youtu.be/g_Fe9z3eNjY)|
-|`this._data.harvestableType`|-|
+|`this._data.harvestableType`|[Tutorial](https://youtu.be/wDqDeMlZ62A)|
 
 ## Enums
   
