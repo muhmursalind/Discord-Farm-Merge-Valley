@@ -1,4 +1,3 @@
-
 # Discord Farm Merge Valley
 
 ## Functions
@@ -10,6 +9,7 @@
 |`this._data.harvestableType`|-|
 
 ## Enums
+
 ### Items Reward
 |Enum|Status|Function|
 |--|--|--|
@@ -40,63 +40,72 @@
 |`"truffle"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
 
 ### Plant Spawn
-**Wheat**
+
+#### Wheat
 |Enum|Status|Function|
 |--|--|--|
 |`"wheat_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"wheat_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"wheat_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"wheat_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Sugarcane**
+
+#### Sugarcane
 |Enum|Status|Function|
 |--|--|--|
 |`"sugarcane_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sugarcane_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sugarcane_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sugarcane_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Carrot**
+
+#### Carrot
 |Enum|Status|Function|
 |--|--|--|
 |`"carrot_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"carrot_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"carrot_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"carrot_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Soybeans**
+
+#### Soybeans
 |Enum|Status|Function|
 |--|--|--|
 |`"soybeans_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"soybeans_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"soybeans_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"soybeans_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Sunflower**
+
+#### Sunflower
 |Enum|Status|Function|
 |--|--|--|
 |`"sunflower_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sunflower_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sunflower_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"sunflower_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Corn**
+
+#### Corn
 |Enum|Status|Function|
 |--|--|--|
 |`"corn_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"corn_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"corn_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"corn_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Coffe**
+
+#### Coffe
 |Enum|Status|Function|
 |--|--|--|
 |`"coffee_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"coffee_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"coffee_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"coffee_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Tomato**
+
+#### Tomato
 |Enum|Status|Function|
 |--|--|--|
 |`"tomato_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"tomato_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"tomato_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"tomato_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
-**Avocado**
+
+#### Avocado
 |Enum|Status|Function|
 |--|--|--|
 |`"avocado_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
