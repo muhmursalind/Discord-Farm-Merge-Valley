@@ -24,7 +24,7 @@
 |`"upgrade_card_2"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 |`"upgrade_card_3"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 
-<details>
+</details>
 
 ### Reward
 
@@ -41,7 +41,7 @@
 |`"energy"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 |`"tickets"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 
-<details>
+</details>
   
 #### Ingredients Reward
 |Enum|Status|Function|
