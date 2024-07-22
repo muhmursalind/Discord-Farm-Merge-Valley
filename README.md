@@ -10,12 +10,18 @@
 
 ## Enums
 
+<details> 
+  <summary>Click to expand the information</summary>
+  
 ### Upgrade Card
+<details> 
+  <summary>Click to expand the information</summary>
 |Enum|Status|Function|
 |--|--|--|
 |`"upgrade_card_1"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 |`"upgrade_card_2"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
 |`"upgrade_card_3"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
+</details>details> 
 
 ### Reward
 
@@ -353,3 +359,5 @@
 |`"decorative_halloween_treeface"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_skullaltar"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"decorative_halloween_well"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+</details>
