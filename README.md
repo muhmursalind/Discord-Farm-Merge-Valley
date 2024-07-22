@@ -39,6 +39,38 @@
 |`"avocado"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
 |`"truffle"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
 
+### Reward Spawn
+
+#### Coin
+|Enum|Status|Function|
+|--|--|--|
+|`"coin_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"coin_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Gems
+|Enum|Status|Function|
+|--|--|--|
+|`"gem_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"gem_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"gem_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"gem_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"gem_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"gem_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Energy
+|Enum|Status|Function|
+|--|--|--|
+|`"energy_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"energy_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"energy_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"energy_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
 ### Plant Spawn
 
 #### Wheat
@@ -112,3 +144,61 @@
 |`"avocado_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"avocado_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"avocado_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+### Animal Spawn
+
+#### Chicken
+|Enum|Status|Function|
+|--|--|--|
+|`"chicken_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"chicken_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"chicken_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"chicken_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Cow
+|Enum|Status|Function|
+|--|--|--|
+|`"cow_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"cow_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"cow_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"cow_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Goat
+|Enum|Status|Function|
+|--|--|--|
+|`"goat_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"goat_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"goat_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"goat_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Pig
+|Enum|Status|Function|
+|--|--|--|
+|`"pig_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"pig_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"pig_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"pig_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Sheep
+|Enum|Status|Function|
+|--|--|--|
+|`"sheep_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"sheep_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"sheep_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"sheep_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Deer
+|Enum|Status|Function|
+|--|--|--|
+|`"deer_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"deer_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"deer_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"deer_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Truffle Pig
+|Enum|Status|Function|
+|--|--|--|
+|`"trufflepig_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"trufflepig_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"trufflepig_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"trufflepig_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
