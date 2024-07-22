@@ -10,36 +10,43 @@
 
 ## Enums
 
+### Upgrade Card
+|Enum|Status|Function|
+|--|--|--|
+|`"upgrade_card_1"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
+|`"upgrade_card_2"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
+|`"upgrade_card_3"`|`{"Reward": True, "Harvest": True}`|`this._data.harvestableType`|
+
 ### Reward
 
 #### Items Reward
 |Enum|Status|Function|
 |--|--|--|
-|`"coins"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"gems"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"crates"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"energy"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"tickets"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
+|`"coins"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"gems"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"crates"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"energy"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"tickets"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 
 #### Ingredients Reward
 |Enum|Status|Function|
 |--|--|--|
-|`"wheat"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"egg"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"sunflower"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"milk"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"sugarcane"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"bacon"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"carrot"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"goatmilk"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"soybeans"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"wool"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"corn"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"fur"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"coffeebeans"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"tomato"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"avocado"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
-|`"truffle"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
+|`"wheat"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"egg"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"sunflower"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"milk"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"sugarcane"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"bacon"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"carrot"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"goatmilk"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"soybeans"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"wool"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"corn"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"fur"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"coffeebeans"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"tomato"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"avocado"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
+|`"truffle"`|`{"Reward": True, "Collect": True}`|`this._data.reward`|
 
 ### Reward Spawn
 
