@@ -4,13 +4,15 @@
 |Function|Description|
 |--|--|
 |`this._data.max`|-|
-|`this._data.reward`|-|
+|`this._data.reward`|[Tutorial](https://youtu.be/P-pKHxkn9ZM?si=53LLLY5Wjlz-uYKj)|
 |`this._data.target`|-|
 |`this._data.harvestableType`|-|
 
 ## Enums
 
-### Items Reward
+### Reward
+
+#### Items Reward
 |Enum|Status|Function|
 |--|--|--|
 |`"coins"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
@@ -19,7 +21,7 @@
 |`"energy"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
 |`"tickets"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
 
-### Ingredients Reward
+#### Ingredients Reward
 |Enum|Status|Function|
 |--|--|--|
 |`"wheat"`|`{"Reward": True, "Spawn": False}`|`this._data.reward`|
@@ -202,3 +204,59 @@
 |`"trufflepig_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"trufflepig_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
 |`"trufflepig_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+### Addon Spawn
+
+#### Stone Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"stone_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"stone_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Wood Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"wood_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"wood_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+#### Tool Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"tool_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_9"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"tool_10"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+
+### Greenhouse Spawn
+|Enum|Status|Function|
+|--|--|--|
+|`"greenhouse_1"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_2"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_3"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_4"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_5"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_6"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_7"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_8"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_9"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_10"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse_11"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
+|`"greenhouse"`|`{"Reward": True, "Spawn": True}`|`this._data.target`|
