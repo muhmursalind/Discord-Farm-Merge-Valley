@@ -1,5 +1,7 @@
 # Discord Farm Merge Valley
 
+[Github @wooslow](https://github.com/wooslow/discord-farm-merge-valley-hack)
+
 ## Functions
 |Function|Description|Tutorial|
 |--|--|--|
