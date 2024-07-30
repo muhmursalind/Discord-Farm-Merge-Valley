@@ -3,10 +3,10 @@
 ## Functions
 |Function|Description|
 |--|--|
-|`this._data.max`|[Tutorial](https://youtu.be/ZK-lzJ_O_cA)|
-|`this._data.reward`|[Tutorial](https://youtu.be/P-pKHxkn9ZM?si=53LLLY5Wjlz-uYKj)|
-|`this._data.target`|[Tutorial](https://youtu.be/g_Fe9z3eNjY)|
-|`this._data.harvestableType`|[Tutorial](https://youtu.be/wDqDeMlZ62A)|
+|`this._data.max`|[Tutorial]()|
+|`return this[_0x86f480(0x25b2)]['reward']`|[Tutorial]()|
+|`this._data.target`|[Tutorial]()|
+|`this._data.harvestableType`|[Tutorial]()|
 
 ## Enums
   
