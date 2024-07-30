@@ -3,8 +3,8 @@
 ## Functions
 |Function|Description|
 |--|--|
-|`this._data.max`|[Tutorial]()|
-|`return this[_0x86f480(0x25b2)]['reward']`|[Tutorial]()|
+|`return this[_0x190812(0x25b2)]['max'];`|[Tutorial]()|
+|`return this[_0x86f480(0x25b2)]['reward'];`|[Tutorial]()|
 |`this._data.target`|[Tutorial]()|
 |`this._data.harvestableType`|[Tutorial]()|
 
