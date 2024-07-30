@@ -1,12 +1,12 @@
 # Discord Farm Merge Valley
 
 ## Functions
-|Function|Description|
-|--|--|
-|`return this[_0x190812(0x25b2)]['max'];`|[Tutorial]()|
-|`return this[_0x86f480(0x25b2)]['reward'];`|[Tutorial]()|
-|`this._data.target`|[Tutorial]()|
-|`return this[_0x415ff5(0x25b2)][_0x415ff5(0x1417)];`|[Tutorial]()|
+|Function|Description|Tutorial|
+|--|--|--|
+|`return this[_0x190812(0x25b2)]['max'];`|`remove trees and stones`|[Tutorial](https://youtu.be/ZK-lzJ_O_cA)|
+|`return this[_0x86f480(0x25b2)]['reward'];`|`change reward data`|[Tutorial](https://youtu.be/P-pKHxkn9ZM)|
+|`return this[_0x59c98f(0x25b2)][_0x59c98f(0x4b90)];`|`summon spawn items`|[Tutorial](https://youtu.be/g_Fe9z3eNjY)|
+|`return this[_0x415ff5(0x25b2)][_0x415ff5(0x1417)];`|`summon upgrade cards`|[Tutorial](https://youtu.be/wDqDeMlZ62A)|
 
 ## Enums
   
